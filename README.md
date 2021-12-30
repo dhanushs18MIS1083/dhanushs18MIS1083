@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @dhanushs18MIS1083
-- 👀 I’m interested in Android programming and Game programming
-- 🌱 I’m currently learning Big Data Analystics 
-- 💞️ I’m looking to collaborate on cloud computing
-- 📫 How to reach me via Email:dhanush14301@gmail.com
+Group-5
+This is a Technical Answers for Real-World problem (CSE3999) Project done by V.I.T. university students....
 
-<!---
-dhanushs18MIS1083/dhanushs18MIS1083 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PROJECT TITLE: Road Side Assistance
+
+TEAM MEMBERS:
+
+Harish Kumar. M - 18MIS1031
+Harshit. D - 18MIS1038
+Bhuvaneswaran. B - 18MIS1043
+Aravindhan. V - 18MIS1052
+Dhanush. s - 18MIS1083
+TO RUN:
+
+-->This project is done using Html, Css, And php. The database connection is established using MySql.
+
+-->We need to download Xampp to run this php project.
+
+-->We need to Turn on Apache and Mysql Server.
+
+-->We have to copy and paste our project files into htdocs folder of Xampp.
+
+-->Next we need to press the admin button of the apache server. It will redirect us to the home page of our website.
+
+USER-APP:
+
+The app is developed for Customer purpose who are in emergency. They can easily avail our service by just pressing a button.We will be Recieving Your Queries to our Business number and our Business Mail.
+
+Video Link: https://youtu.be/1CPxdFQKBDg
